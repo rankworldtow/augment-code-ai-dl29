@@ -1,4 +1,4 @@
-# 
+# Secure Augment Code extensions. Featuring privacy-preserving and contextual-memory — optimized for maximum performance and efficiency.
 
 
 
